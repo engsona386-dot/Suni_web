@@ -1,4 +1,4 @@
-/* General Settings */
+here/* General Settings */
 * {
     margin: 0;
     padding: 0;
@@ -13,8 +13,8 @@ body, html {
 
 /* Main Background Container */
 .background-container {
-    /* Note: Ensure 'background.jpg' matches your image file name */
-    background: url('background.jpg') no-repeat center center fixed;
+    /* التعديل هنا: استخدمنا اسم الصورة الفعلي الموجود في الملفات */
+    background: url('IMG-20260308-WA0029.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     width: 100%;
